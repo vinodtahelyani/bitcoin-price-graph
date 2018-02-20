@@ -1,0 +1,16 @@
+svg{
+    fill:none;
+    stroke:#0040FF;
+    stroke-width:5;
+    background:#f9f9f9;
+    margin: 10px;
+}
+polygon{
+    fill:#DFE7FF;
+    stroke: none;
+    stroke-width: 0%;
+}
+.graph-line{
+    stroke-width: 2;
+    stroke-opacity: 50%;stroke: rgba(40, 72, 168, 0.438);
+}
